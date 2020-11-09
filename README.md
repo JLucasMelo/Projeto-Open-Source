@@ -30,6 +30,8 @@ Ao realizar um anuncio utilizando essa plataforma, vocâ estará concordando que
 1. Não serão tolerados nenhum tipo de discriminação, assédio ou nenhum tipo de humilhação perante os consumidores e ofertantes.
 2. Nós respeitamos as leis vijentes em nosso país, a venda de produtos que não são legais perante a lei será sujeito a denuncia.
 3. Não serão toleradas ofertas ou propostas feitas usando identidades falsas se passando por outras pessoas.
+4. Ao responder, perguntar ou comentar nas ofertas, não serão tolerados mensagens agressivas ou com tom desproporcional.
+5. Não será tolerado nenhum tipo de  perseguição ou "doxxing" (investigação da vida de um consumidor ou ofertante sem a devida autorização do mesmo) ou publicação de dados pessoais passados em ambiente privado.
 
 _O mundo é de todos nós, respeite as pessoas e trate os outros da maneira que gostaria de ser tratado!_
 
