@@ -1,6 +1,6 @@
 <h1> Projeto Verdália, por um mundo natural! </h1>
 
-O projeto do Verdália é a criação de um local de interação entre pessoas que fazem o uso de produtos medicinais naturais ou "alternativos" em salvador com aqueles que possuem o produto e tem interesse em vender, trocar por algo ou compartilhar com a comunidade e que necessitam de um local odne possasm fazer a divulgação desses produtos.
+O projeto do Verdália é a criação de um local de interação entre pessoas que fazem o uso de produtos medicinais naturais ou "alternativos" em salvador com aqueles que possuem o produto e tem interesse em vender, trocar por algo ou compartilhar com a comunidade e que necessitam de um local onde possam fazer a divulgação desses produtos.
 
 Equipe Verdália:
 
@@ -14,7 +14,7 @@ Equipe Verdália:
 
 O anuncio deve ser feito por meio das issues: [clique aqui](https://github.com/JLucasMelo/Projeto-Open-Source/issues/new?assignees=&labels=&template=anuncio-de-produtos.md&title=)
 
-Dentro das issues ja estará definido um modelo para faciliatr a interação e dessa forma deixar mais organizado para aqueles que buscam os produtos oferecidos.
+Dentro das issues ja estará definido um modelo para facilitar a interação e dessa forma deixar mais organizado para aqueles que buscam os produtos oferecidos.
 forneça seus dados (nome completo e bairro) e a maneira como prefere ser contactado (telefone, email, rede social) e o produto que está oferecendo. 
 
 observações: 
@@ -28,7 +28,7 @@ _"O meio ambiente é de todos nós, com ele podemos crescer melhores e mais saud
 Ao realizar um anuncio utilizando essa plataforma, vocâ estará concordando que:
 
 1. Não serão tolerados nenhum tipo de discriminação, assédio ou nenhum tipo de humilhação perante os consumidores e ofertantes.
-2. Nós respeitamos as leis vijentes em nosso país, a venda de produtos que não são legais perante a lei será sujeito a denuncia.
+2. Nós respeitamos as leis vigentes em nosso país, a venda de produtos que não são legais perante a lei será sujeito a denuncia.
 3. Não serão toleradas ofertas ou propostas feitas usando identidades falsas se passando por outras pessoas.
 4. Ao responder, perguntar ou comentar nas ofertas, não serão tolerados mensagens agressivas ou com tom desproporcional.
 5. Não será tolerado nenhum tipo de  perseguição ou "doxxing" (investigação da vida de um consumidor ou ofertante sem a devida autorização do mesmo) ou publicação de dados pessoais passados em ambiente privado.
