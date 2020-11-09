@@ -13,7 +13,7 @@ observação: NÃO DIVULGUE DADOS PESSOAIS NAS OFERTAS!
 
 <h3> Informações </h3>
 
-Projeto criado como forma de avaliação parcial da matéria de PARADIGMAS E FERRAMENTAS DE ENGENHARIA DE SOFTWARE, ministrada pelo professor Mário Jorge Pereira (.[github].(https://github.com/mariojp)) na Universidade  Católica do Salvador.
+Projeto criado como forma de avaliação parcial da matéria de PARADIGMAS E FERRAMENTAS DE ENGENHARIA DE SOFTWARE, ministrada pelo professor Mário Jorge Pereira ([github](https://github.com/mariojp)) na Universidade  Católica do Salvador.
 
 <h2> License </h2>
 
