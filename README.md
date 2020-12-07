@@ -15,7 +15,7 @@ Equipe Verdália:
 O anuncio deve ser feito por meio das issues: [clique aqui](https://github.com/JLucasMelo/Projeto-Open-Source/issues/new?assignees=&labels=&template=anuncio-de-produtos.md&title=)
 
 Dentro das issues ja estará definido um modelo para facilitar a interação e dessa forma deixar mais organizado para aqueles que buscam os produtos oferecidos.
-forneça seus dados (nome completo e bairro) e a maneira como prefere ser contactado (telefone, email, rede social) e o produto que está oferecendo. 
+forneça seus dados (nome completo e bairro) e a maneira como prefere ser contactado (telefone, email, rede social) e o produto que está oferecendo. Após a descrição ser finalizada, adicione a Label correspondente a sua intenção com o produto (Venda, Troca ou Doação).
 
 observações: 
 - **NÃO DIVULGUE DADOS PESSOAIS NAS OFERTAS!**
